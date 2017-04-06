@@ -34,7 +34,7 @@ You can do this in two different ways
 - Clone the repository to your computer
 - Make a branch for this issue (if you're working on multiple unrelated issues, they should each have their own branch) and switch to work in that branch e.g. “git checkout -b bugbbq-edits”
 - Make the changes
-- If possible, review the rendered version of the lessons locally. If you have Jekyll installed, type `jekyll serve` and go to http://0.0.0.0:4000 to preview your site. [Jekyll installation instructions](https://github.com/swcarpentry/workshop-template#installing-software)
+- If possible, review the rendered version of the lessons locally. If you have Jekyll installed, type `jekyll serve` and go to http://0.0.0.0:4000 to preview your site. [Jekyll installation instructions](https://github.com/swcarpentry/workshop-template#installing-software) [Caveat for R lessons](contributing-Rmarkdown.md)
 - Push the changes e.g. “git push origin bugbbq-edits”
 - Go to the datacarpentry repo that you forked the lessons from
 - Click the Pull Requests tab and click the Green “New pull request” button
