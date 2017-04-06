@@ -1,3 +1,8 @@
+---
+layout: page
+title: How to Contribute
+---
+
 # How to Contribute to Lessons During the Bug BBQ
 
 During the Bug BBQ we’ll be focusing on resolving outstanding issues. Issues for each of the lessons can be found here:
@@ -29,7 +34,7 @@ You can do this in two different ways
 - Clone the repository to your computer
 - Make a branch for this issue (if you're working on multiple unrelated issues, they should each have their own branch) and switch to work in that branch e.g. “git checkout -b bugbbq-edits”
 - Make the changes
-- If possible, review the rendered version of the lessons locally (link to information on how to do this - it’s somewhere)
+- If possible, review the rendered version of the lessons locally. If you have Jekyll installed, type `jekyll serve` and go to http://0.0.0.0:4000 to preview your site. [Jekyll installation instructions](https://github.com/swcarpentry/workshop-template#installing-software)
 - Push the changes e.g. “git push origin bugbbq-edits”
 - Go to the datacarpentry repo that you forked the lessons from
 - Click the Pull Requests tab and click the Green “New pull request” button
@@ -55,7 +60,7 @@ You can do this in two different ways
 - Click ‘Propose file change’
 ![propose file change](fig/propose-file-change.png)
 
-### Step 4: Revel in the success of putting in a Pull Request! 
+### Step 4: Revel in the success of putting in a Pull Request!
 
 You’ve resolved issues today!
 
