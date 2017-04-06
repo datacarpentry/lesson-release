@@ -1,3 +1,8 @@
+---
+layout: page
+title: How to Contribute
+---
+
 # How to Contribute to Lessons During the Bug BBQ
 
 During the Bug BBQ we’ll be focusing on resolving outstanding issues. Issues for each of the lessons can be found here:
@@ -55,7 +60,7 @@ You can do this in two different ways
 - Click ‘Propose file change’
 ![propose file change](fig/propose-file-change.png)
 
-### Step 4: Revel in the success of putting in a Pull Request! 
+### Step 4: Revel in the success of putting in a Pull Request!
 
 You’ve resolved issues today!
 
