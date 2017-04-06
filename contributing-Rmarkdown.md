@@ -1,5 +1,8 @@
 # Contributing when lessons have RMarkdown files
 
+From the [How to Contribute](how-to-contribute.md) document, this a caveat
+for lessons using Rmarkdown for the episodes.
+
 In the lessons with Rmarkdown files (for the Data Carpentry Ecology lessons, that's just the R lesson), previewing changes and the files to push are slightly different.
 
 - To make the changes, edit the .Rmd files. You likely will be doing this in RStudio.
