@@ -49,7 +49,7 @@ You can do this in two different ways
 - Select the option “Create a new branch for this commit and start a pull request.” (That might the only option available to you.) Add a name for the branch.
 - Click ‘Propose file change’
 
-#### Step 4: Revel in the success of putting in a Pull Request! 
+### Step 4: Revel in the success of putting in a Pull Request! 
 
 You’ve resolved issues today!
 
