@@ -27,7 +27,7 @@ You can do this in two different ways
 
 - Fork the repository
 - Clone the repository to your computer
-- Make a branch for your edits and switch to work in that branch e.g. “git checkout -b bugbbq-edits”
+- Make a branch for this issue (if you're working on multiple unrelated issues, they should each have their own branch) and switch to work in that branch e.g. “git checkout -b bugbbq-edits”
 - Make the changes
 - If possible, review the rendered version of the lessons locally (link to information on how to do this - it’s somewhere)
 - Push the changes e.g. “git push origin bugbbq-edits”
