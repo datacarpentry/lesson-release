@@ -11,7 +11,7 @@ During the Bug BBQ we’ll be focusing on resolving outstanding issues. Issues f
 
 ## How to Contribute
 
-### Step 1: Go to a lesson and look through the issues. 
+### Step 1: Go to a lesson and look through the issues.
 
 All the issues are labeled for the type of work that it is (formatting, wording, technical), how much time it will take (quickfix, moderate, complex) and the type of update (bug, enhancement, discussion). Some involve both technical and wording work, so have both labels.  
 
@@ -19,7 +19,7 @@ All the issues are labeled for the type of work that it is (formatting, wording,
 
 Depending on the time you have and what you’re interested in working on, pick an issue. In the issue conversation, add a comment that says that you’re working on that issue.
 
-### Step 3: Make the change needed to address the issue. 
+### Step 3: Make the change needed to address the issue.
 
 You can do this in two different ways
 
@@ -32,24 +32,30 @@ You can do this in two different ways
 - If possible, review the rendered version of the lessons locally (link to information on how to do this - it’s somewhere)
 - Push the changes e.g. “git push origin bugbbq-edits”
 - Go to the datacarpentry repo that you forked the lessons from
-- Click the Pull Requests tab and click the Green “New pull request” button 
+- Click the Pull Requests tab and click the Green “New pull request” button
+![new pull request](fig/new-pull-request.png)
+
 - Click ‘Compare across forks’
+![compare across forks](fig/compare-across-forks.png)
 - Pick your repository and branch
 - Click ‘Create pull request’
 - Add a note about your Pull Request and be sure to add the link to the issue it resolves
-- Click Done/Submit (whatever it says)
+- Click 'Create pull request'
 
 #### Approach 2: Through the github website
 
 - Find the file that you want to edit in the repository and click on that file
 - Click on the pencil in the top right
+![edit pencil](fig/pencil-edit.png)
+
 - The file will now be open for you to edit it. Make your changes.
 - After you’ve made your changes, scroll to the bottom of the page
-- In the ‘Commit changes’ section add a commit message. Be sure to include a link to the issue the change addresses.	
+- In the ‘Commit changes’ section add a commit message. Be sure to include a link to the issue the change addresses.
 - Select the option “Create a new branch for this commit and start a pull request.” (That might the only option available to you.) Add a name for the branch.
 - Click ‘Propose file change’
+![propose file change](fig/propose-file-change.png)
 
-#### Step 4: Revel in the success of putting in a Pull Request! 
+#### Step 4: Revel in the success of putting in a Pull Request!
 
 You’ve resolved issues today!
 
