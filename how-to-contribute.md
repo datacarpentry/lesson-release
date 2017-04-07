@@ -26,8 +26,6 @@ Depending on the time you have and what you’re interested in working on, pick 
 
 ### Step 3: Make the change needed to address the issue.
 
-Useful information: [An introduction to git/Github from Carol Willing](https://www.slideshare.net/willingc/yes-you-can-git)
-
 You can do this in two different ways
 
 #### Approach 1: Using github on your computer
