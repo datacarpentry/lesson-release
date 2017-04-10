@@ -45,7 +45,7 @@ You can do this in two different ways
 ![compare across forks](fig/compare-across-forks.png)
 - Pick your repository and branch
 - Click ‘Create pull request’
-- Add a note about your Pull Request and be sure to add the link to the issue it resolves
+- Add a note about your Pull Request and be sure to add "fixes the link to the issue it resolves". Using the 'fixes' language means that the issue will automatically be closed when the PR is merged.
 - Click 'Create pull request'
 
 #### Approach 2: Through the github website
