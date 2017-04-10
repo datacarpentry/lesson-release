@@ -29,7 +29,7 @@ The release version of the lesson is hosted at xxxx.
 
 The stable version of the lesson is served by GitHub.
 
-Checklist of tasks to complete before release:
+Checklist of lesson cleaning tasks to complete before release:
 - [ ] check that the learning objectives reflect the content of the lessons
 - [ ] check for typos
 - [ ] check that the live coding examples work as expected
@@ -41,6 +41,11 @@ Checklist of tasks to complete before release:
 - [ ] check that all the links within the lessons work (this should be automated)
 - [ ] make sure that the formatting of the code in the lesson looks good (e.g., no weird line breaks)
 - [ ] update README as needed
+
+## Checklist for release process
 - [ ] update the release notes (NEWS)
 - [ ] tag release on GitHub
-- [ ] create DOIs
+- [ ] generate author list of github contributors
+- [ ] create DOIs (multiple steps)
+
+[Steps from SWC release](https://github.com/swcarpentry/swc-releases)
