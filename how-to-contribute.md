@@ -3,22 +3,15 @@ layout: page
 title: How to Contribute
 ---
 
-# How to Contribute to Lessons During the Bug BBQ
+# How to Contribute to Lessons During a Bug BBQ
 
-During the Bug BBQ we’ll be focusing on resolving outstanding issues. Issues for each of the lessons can be found here:
-
-[Ecology Workshop Overview](https://github.com/datacarpentry/ecology-workshop)  
-[Ecology Spreadsheets Lesson](https://github.com/datacarpentry/spreadsheet-ecology-lesson/issues/)  
-[Ecology OpenRefine Lesson](https://github.com/datacarpentry/OpenRefine-ecology-lesson/issues/)  
-[Ecology SQL Lesson](https://github.com/datacarpentry/sql-ecology-lesson/issues/)  
-[Ecology R Lesson](https://github.com/datacarpentry/R-ecology-lesson/milestone/1)  
-[Ecology Python Lesson](https://github.com/datacarpentry/python-ecology-lesson/issues/)  
+During the Bug BBQ we’ll be focusing on resolving outstanding issues. 
 
 ## How to Contribute
 
 ### Step 1: Go to a lesson and look through the issues.
 
-All the issues are labeled for the type of work that it is (formatting, wording, technical), how much time it will take (quickfix, moderate, complex) and the type of update (bug, enhancement, discussion). Some involve both technical and wording work, so have both labels.  
+Often issues are labeled for the type of work that it is (formatting, wording, technical), how much time it will take (quickfix, moderate, complex) and the type of update (bug, enhancement, discussion). Some involve both technical and wording work, so have both labels.  
 
 ### Step 2: Select an issue to work on
 
